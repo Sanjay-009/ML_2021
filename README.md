@@ -8,4 +8,4 @@ Bank chatbot
 ![alt text](https://raw.githubusercontent.com/Sanjay-009/ML_2021/main/Chat%20Bot-1.jpg)
 
 ## Video
-![alt text](https://youtu.be/qrumuCrOZz4)
+https://youtu.be/qrumuCrOZz4
