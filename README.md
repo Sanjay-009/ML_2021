@@ -16,7 +16,7 @@
 ![alt text](https://raw.githubusercontent.com/Sanjay-009/ML_2021/main/Chat%20Bot-1.jpg)
 
 # Video
-https://youtu.be/qrumuCrOZz4
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/qrumuCrOZz4/mqdefault.webp?time=1603106100000&sqp=CLTqtfwF&rs=AOn4CLDH9L8i0_93-SSm00AdhZxQu45OUw)](https://youtu.be/qrumuCrOZz4)
 
 # Reference Links :
 https://www.haptik.ai/blog/chatbots-in-banking-examples-best-usecases-future/
