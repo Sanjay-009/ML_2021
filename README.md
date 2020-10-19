@@ -6,7 +6,7 @@
 
 ## We have created a Bank Chatbot. Which helps the used in clearing queries asked by the customers regarding his Bank and Bank account. Firstly it greets the person and will asks the user to enter his name. After that it will display some options to the user.
 ### Based on the input given by the user.
-### if user enters 1 it desplays account details.
+### if user enters 1 it displays account details.
 ### if it is 2 it transacts the amount from one account to another account.
 ### if it is 3 it will deposit money into the account.
 ### if it is 4 it displays the loans offered by the bank.
